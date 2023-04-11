@@ -1,1 +1,1 @@
-# TestStrateg2
+Ce projet est un test réalisé par Magatte LO étudiante en troisième année de MIASHS à l'université Toulouse Jean Jaures pour la suite de sa candiature pour un stage de développeur web à Strateg IN. C'est une application qui permet à un utilisateur de créer un compte ou de s'inscrire et voir la liste des utilisateurs .
